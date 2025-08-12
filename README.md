@@ -1,2 +1,2 @@
 # Excel-Projects
-All the projects of Excel here
+Coffee Shop Excel Project
